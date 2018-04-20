@@ -26,3 +26,18 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.subjectBox {
+  padding: 50px;
+}
+.subject {
+  height: 200px;
+}
+
+.checkerBox {
+  padding: 75px;
+}
+
+.questionBox {
+  padding: 50px;
+}
